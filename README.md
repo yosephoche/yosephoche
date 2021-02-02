@@ -8,7 +8,7 @@
 - ⚙️ I use daily: `.php`, `.js`, `.py`, `.dart`
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **development**, **laravel**, **python**, **django**, **scrapy**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/oche97)
+- 📫 Reach me: [twitter.com/oche97](https://twitter.com/oche97)
 - ⚡️ Fun fact: I'm a huge fan of **Manchester United**
 
 [1]: http://www.octopus.co.id/
