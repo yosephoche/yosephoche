@@ -4,11 +4,11 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **[Octopus Indonesia][1]**
-- ⚙️ I use daily: `.php`, `.js`, `.py`, `.dart`
+- 🏢 I'm currently working at **[Rewardz][1]**
+- ⚙️ I use daily: `.py`, `.php`, `.js`, `Go`
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **Software Development**, **Laravel**, **Python**, **Django**, **scrapy**, **FastAPI**
-- 📫 Reach me: [twitter.com/oche97](https://twitter.com/oche97)
+- 💬 Ping me about **Software Development**, **Python**, **Django**, **Laravel**, **scrapy**, **FastAPI**
+- 📫 Reach me: [linkedin.com/ocheparai](https://www.linkedin.com/in/ocheparai/)
 - ⚡️ Fun fact: I'm a huge fan of **Manchester United**
 
-[1]: http://www.octopus.co.id/
+[1]: https://rewardz.sg/
